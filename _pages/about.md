@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://macss.uchicago.edu/'>Computational Social Science @ UChicago</a>
+subtitle: <a href='https://c3s2.uchicago.edu/'>Computational Social Science @ UChicago</a>
 
 profile:
   align: right
@@ -26,6 +26,10 @@ social: true # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a computational anthropologist who studies the anthropology **_of_** and **_with_** computation. On the "of" side of my work, I examine how cultural meaning is encoded in material culture and its computational infrastructures --- archaeological archives, museum databases, digital platforms, marketplaces, and AI systems that store, filter, and circulate cultural representations. On the "with" side, I build computational methods that enable anthropologists to connect local meaning-making to the large-scale, high-velocity information infrastructures that increasingly mediate cultural life. For me, "scale" is not simply a technical issue but a central site of anthropological inquiry: understanding contemporary culture requires tracing how small, situated practices become entangled with computational systems of expanding reach and accelerating pace.
+I am a computational anthropologist who studies how human beings use symbolic technologies to record, represent, and imagine who we are -- from ancient inscription systems to contemporary AI.
+
+My research focuses on the Inka khipu, museum archives, and generative AI's depictions of human origins, combining semiotic anthropology with computational methods.
 
 I earned my PhD in Anthropology from Harvard University and currently teach Computational Social Science at the University of Chicago.
+
+Students interested in identity and culture in the age of AI, computational analysis of culture, or material culture and archives are welcome to reach out about coursework, thesis advising, and research opportunities.
