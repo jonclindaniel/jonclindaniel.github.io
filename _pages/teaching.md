@@ -10,9 +10,14 @@ nav_order: 4
 <h2>University of Chicago</h2>
 <ul>
   <li>
-    <strong>MACS 30123 - Large-Scale Computing for the Social Sciences (Autumn 2020-21; Spring 2020-25)</strong>
+    <strong>MACS 34050 - Identity and Culture in the Age of AI (Autumn 2026)</strong>
+    <p>What kinds of selves become possible in the age of AI? Artificial intelligence sorts, profiles, advises, and addresses us -- helping shape who we take ourselves to be. This course examines how identity is made, performed, and revised in a world of platforms and algorithms, situating AI within a longer history of symbolic technologies -- from ancient inscriptions to institutional classifications and digital media -- that make people recognizable to themselves and others. Drawing on semiotic anthropology, critical theory, and psychoanalysis -- and using computational methods to put AI systems to the test -- students analyze how these technologies organize self-presentation, fantasy, intimacy, and power, as well as what exceeds their reach.</p>
+  </li>
+  <br>
+  <li>
+    <strong>MACS 30113/30123 - Large-Scale Computing for the Social Sciences (Autumn 2020-21; Spring 2020-26)</strong>
     <p>Computational social scientists increasingly need to grapple with data that is too big and code that is too resource intensive to run on a local machine. Using Python, students in this course will learn how to effectively scale their computational methods beyond their local machines -- optimizing and parallelizing their code across clusters of CPUs and GPUs, both on-premises and in the cloud. The focus of the course will be on social scientific applicationas, such as: accelerating social simulations by several orders of magnitude, processing large amounts of social media data in real-time, and training machine learning models on economic datasets that are too large for an average laptop to handle.</p>
-    <a href="https://github.com/macs30123-s24/course-materials" target="_blank">Course Website</a>
+    <a href="https://github.com/macs30123-s26/course-materials" target="_blank">Course Website</a>
   </li>
   <br>
   <li>
@@ -41,7 +46,7 @@ nav_order: 4
   </li>
   <br>
   <li>
-    <strong>MACS 30120 - Computing Fundamentals Boot Camp (September 2022-25)</strong>
+    <strong>MACS 30120 - Computing Fundamentals Boot Camp (September 2022-26)</strong>
     <p>This boot camp focuses on introducing fundamental open-source tools for producing reproducible, computational research. Topics include the basics of Python programming, working on the Linux command line, as well as using Git/GitHub for version control. The course assumes no prior exposure to these topics and serves as preparation for the first course in the MACSS computing sequences in the Fall (MACS 30111 or MACS 30121).</p>
   </li>
   <br>
